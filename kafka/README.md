@@ -1,3 +1,5 @@
+https://github.com/simplesteph/kafka-stack-docker-compose
+
 [![Build Status](https://travis-ci.org/simplesteph/kafka-stack-docker-compose.svg?branch=master)](https://travis-ci.org/simplesteph/kafka-stack-docker-compose)
 
 # kafka-stack-docker-compose

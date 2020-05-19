@@ -1,0 +1,2 @@
+1. Spring Data Elasticsearch: https://docs.spring.io/spring-data/elasticsearch/docs/3.1.5.RELEASE/reference/html/
+2. Install Elasticsearch with Docker: https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html#docker
